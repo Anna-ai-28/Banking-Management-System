@@ -1,0 +1,26 @@
+[
+    {
+        "name": "Rinki",
+        "age": 20,
+        "email": "rinki@gmail.com",
+        "pin": 1234,
+        "accountNo": "@DeT491",
+        "balance": 4500
+    },
+    {
+        "name": "Anna",
+        "age": 18,
+        "email": "anna@gmail.com",
+        "pin": 2026,
+        "accountNo": "86#rAy6",
+        "balance": 0
+    },
+    {
+        "name": "Rohan Sharma",
+        "age": 23,
+        "email": "rohan12@gmail.com",
+        "pin": 1998,
+        "accountNo": "45k&5Na",
+        "balance": 0
+    }
+]
